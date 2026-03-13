@@ -28,7 +28,6 @@ media
 .Python
 build/
 develop-eggs/
-dist/
 downloads/
 eggs/
 .eggs/
@@ -348,7 +347,6 @@ typings/
 
 # Nuxt.js build / generate output
 .nuxt
-dist
 
 # Storybook build outputs
 .out
@@ -387,7 +385,6 @@ temp/
 
 ### Sass ###
 .sass-cache/
-*.css.map
 *.sass.map
 *.scss.map
 

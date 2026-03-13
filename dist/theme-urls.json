@@ -1,0 +1,57 @@
+{
+  "themeUrls": {
+    "variants": {
+      "educateworkforce-dev-light": {
+        "paths": {
+          "default": "./educateworkforce-dev-light.css",
+          "minified": "./educateworkforce-dev-light.min.css"
+        }
+      },
+      "chooseaerospace-dev-light": {
+        "paths": {
+          "default": "./chooseaerospace-dev-light.css",
+          "minified": "./chooseaerospace-dev-light.min.css"
+        }
+      },
+      "light": {
+        "paths": {
+          "default": "./light.css",
+          "minified": "./light.min.css"
+        }
+      },
+      "chooseaerospace-prod-light": {
+        "paths": {
+          "default": "./chooseaerospace-prod-light.css",
+          "minified": "./chooseaerospace-prod-light.min.css"
+        }
+      },
+      "skilredi-dev-light": {
+        "paths": {
+          "default": "./skilredi-dev-light.css",
+          "minified": "./skilredi-dev-light.min.css"
+        }
+      },
+      "educateworkforce-prod-light": {
+        "paths": {
+          "default": "./educateworkforce-prod-light.css",
+          "minified": "./educateworkforce-prod-light.min.css"
+        }
+      },
+      "skilredi-prod-light": {
+        "paths": {
+          "default": "./skilredi-prod-light.css",
+          "minified": "./skilredi-prod-light.min.css"
+        }
+      }
+    },
+    "defaults": {
+      "light": "light"
+    },
+    "core": {
+      "paths": {
+        "default": "./core.css",
+        "minified": "./core.min.css"
+      }
+    }
+  }
+}

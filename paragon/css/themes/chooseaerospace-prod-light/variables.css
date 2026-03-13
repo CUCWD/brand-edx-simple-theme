@@ -1,0 +1,27 @@
+/**
+ * Do not edit directly, this file was auto-generated.
+ * See <PARAGON_ROOT>/tokens/README.md for more details.
+ */
+
+:root {
+  --pgn-color-primary-100: #F3F3F4FF;
+  --pgn-color-primary-200: #CBCED1FF;
+  --pgn-color-primary-300: #979DA2FF;
+  --pgn-color-primary-400: #636B74FF;
+  --pgn-color-primary-500: #2F3A45FF;
+  --pgn-color-primary-600: #2A343EFF;
+  --pgn-color-primary-700: #262E37FF;
+  --pgn-color-primary-800: #232C34FF;
+  --pgn-color-primary-900: #212930FF;
+  --pgn-color-primary-base: #2F3A45FF;
+  --pgn-color-action-default-primary-100: var(--pgn-color-primary-100);
+  --pgn-color-action-default-primary-200: var(--pgn-color-primary-200);
+  --pgn-color-action-default-primary-300: var(--pgn-color-primary-300);
+  --pgn-color-action-default-primary-400: var(--pgn-color-primary-400);
+  --pgn-color-action-default-primary-500: var(--pgn-color-primary-500);
+  --pgn-color-action-default-primary-600: var(--pgn-color-primary-600);
+  --pgn-color-action-default-primary-700: var(--pgn-color-primary-700);
+  --pgn-color-action-default-primary-800: var(--pgn-color-primary-800);
+  --pgn-color-action-default-primary-900: var(--pgn-color-primary-900);
+  --pgn-color-action-default-primary-base: var(--pgn-color-primary-base);
+}

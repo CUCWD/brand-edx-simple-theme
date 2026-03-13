@@ -1,0 +1,14 @@
+[color.btn.text.outline-primary]
+"$value" = "{color.primary.base}"
+
+[color.btn.border.outline-primary]
+"$value" = "{color.primary.base}"
+
+[color.btn.hover.bg.outline-primary]
+"$value" = "{color.primary.100}"
+
+[color.btn.hover.bg.outline-brand]
+"$value" = "{color.primary.100}"
+
+[color.btn.hover.text.outline-primary]
+"$value" = "{color.primary.700}"

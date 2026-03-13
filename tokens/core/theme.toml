@@ -1,0 +1,7 @@
+# Do not edit directly, this file was auto-generated using commands below executed in order.
+# See 'tutor generate-tokens' command for more details.
+# See 'tutor design-tokens copy-paragon-tokens --force' command for more details.
+# --------------------------------------------------------------------------------
+
+[size.border.radius.base]
+"$value" = "0.375rem"

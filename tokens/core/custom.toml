@@ -1,0 +1,7 @@
+# Custom Overrides
+# 
+# Enter in any custom overrides needed here.
+# --------------------------------------------------------------------------------
+
+[typography-font-size-custom-course-card-title]
+"$value" = "1.4rem"

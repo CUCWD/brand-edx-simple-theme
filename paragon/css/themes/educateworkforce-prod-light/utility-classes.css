@@ -1,0 +1,245 @@
+/**
+ * Do not edit directly, this file was auto-generated.
+ * See <PARAGON_ROOT>/tokens/README.md for more details.
+ */
+
+.bg-primary-100 {
+  background-color: var(--pgn-color-primary-100) !important;
+}
+
+a.bg-primary-100:hover,
+a.bg-primary-100:focus,
+button.bg-primary-100:hover,
+button.bg-primary-100:focus {
+  background-color: var(--pgn-color-action-default-primary-100) !important;
+}
+
+.text-primary-100 {
+  color: var(--pgn-color-primary-100) !important;
+}
+
+a.text-primary-100:hover,
+a.text-primary-100:focus {
+  color: var(--pgn-color-action-default-primary-100) !important;
+}
+
+.border-primary-100 {
+  border-color: var(--pgn-color-primary-100) !important;
+}
+
+.bg-primary-200 {
+  background-color: var(--pgn-color-primary-200) !important;
+}
+
+a.bg-primary-200:hover,
+a.bg-primary-200:focus,
+button.bg-primary-200:hover,
+button.bg-primary-200:focus {
+  background-color: var(--pgn-color-action-default-primary-200) !important;
+}
+
+.text-primary-200 {
+  color: var(--pgn-color-primary-200) !important;
+}
+
+a.text-primary-200:hover,
+a.text-primary-200:focus {
+  color: var(--pgn-color-action-default-primary-200) !important;
+}
+
+.border-primary-200 {
+  border-color: var(--pgn-color-primary-200) !important;
+}
+
+.bg-primary-300 {
+  background-color: var(--pgn-color-primary-300) !important;
+}
+
+a.bg-primary-300:hover,
+a.bg-primary-300:focus,
+button.bg-primary-300:hover,
+button.bg-primary-300:focus {
+  background-color: var(--pgn-color-action-default-primary-300) !important;
+}
+
+.text-primary-300 {
+  color: var(--pgn-color-primary-300) !important;
+}
+
+a.text-primary-300:hover,
+a.text-primary-300:focus {
+  color: var(--pgn-color-action-default-primary-300) !important;
+}
+
+.border-primary-300 {
+  border-color: var(--pgn-color-primary-300) !important;
+}
+
+.bg-primary-400 {
+  background-color: var(--pgn-color-primary-400) !important;
+}
+
+a.bg-primary-400:hover,
+a.bg-primary-400:focus,
+button.bg-primary-400:hover,
+button.bg-primary-400:focus {
+  background-color: var(--pgn-color-action-default-primary-400) !important;
+}
+
+.text-primary-400 {
+  color: var(--pgn-color-primary-400) !important;
+}
+
+a.text-primary-400:hover,
+a.text-primary-400:focus {
+  color: var(--pgn-color-action-default-primary-400) !important;
+}
+
+.border-primary-400 {
+  border-color: var(--pgn-color-primary-400) !important;
+}
+
+.bg-primary-500 {
+  background-color: var(--pgn-color-primary-500) !important;
+}
+
+a.bg-primary-500:hover,
+a.bg-primary-500:focus,
+button.bg-primary-500:hover,
+button.bg-primary-500:focus {
+  background-color: var(--pgn-color-action-default-primary-500) !important;
+}
+
+.text-primary-500 {
+  color: var(--pgn-color-primary-500) !important;
+}
+
+a.text-primary-500:hover,
+a.text-primary-500:focus {
+  color: var(--pgn-color-action-default-primary-500) !important;
+}
+
+.border-primary-500 {
+  border-color: var(--pgn-color-primary-500) !important;
+}
+
+.bg-primary-600 {
+  background-color: var(--pgn-color-primary-600) !important;
+}
+
+a.bg-primary-600:hover,
+a.bg-primary-600:focus,
+button.bg-primary-600:hover,
+button.bg-primary-600:focus {
+  background-color: var(--pgn-color-action-default-primary-600) !important;
+}
+
+.text-primary-600 {
+  color: var(--pgn-color-primary-600) !important;
+}
+
+a.text-primary-600:hover,
+a.text-primary-600:focus {
+  color: var(--pgn-color-action-default-primary-600) !important;
+}
+
+.border-primary-600 {
+  border-color: var(--pgn-color-primary-600) !important;
+}
+
+.bg-primary-700 {
+  background-color: var(--pgn-color-primary-700) !important;
+}
+
+a.bg-primary-700:hover,
+a.bg-primary-700:focus,
+button.bg-primary-700:hover,
+button.bg-primary-700:focus {
+  background-color: var(--pgn-color-action-default-primary-700) !important;
+}
+
+.text-primary-700 {
+  color: var(--pgn-color-primary-700) !important;
+}
+
+a.text-primary-700:hover,
+a.text-primary-700:focus {
+  color: var(--pgn-color-action-default-primary-700) !important;
+}
+
+.border-primary-700 {
+  border-color: var(--pgn-color-primary-700) !important;
+}
+
+.bg-primary-800 {
+  background-color: var(--pgn-color-primary-800) !important;
+}
+
+a.bg-primary-800:hover,
+a.bg-primary-800:focus,
+button.bg-primary-800:hover,
+button.bg-primary-800:focus {
+  background-color: var(--pgn-color-action-default-primary-800) !important;
+}
+
+.text-primary-800 {
+  color: var(--pgn-color-primary-800) !important;
+}
+
+a.text-primary-800:hover,
+a.text-primary-800:focus {
+  color: var(--pgn-color-action-default-primary-800) !important;
+}
+
+.border-primary-800 {
+  border-color: var(--pgn-color-primary-800) !important;
+}
+
+.bg-primary-900 {
+  background-color: var(--pgn-color-primary-900) !important;
+}
+
+a.bg-primary-900:hover,
+a.bg-primary-900:focus,
+button.bg-primary-900:hover,
+button.bg-primary-900:focus {
+  background-color: var(--pgn-color-action-default-primary-900) !important;
+}
+
+.text-primary-900 {
+  color: var(--pgn-color-primary-900) !important;
+}
+
+a.text-primary-900:hover,
+a.text-primary-900:focus {
+  color: var(--pgn-color-action-default-primary-900) !important;
+}
+
+.border-primary-900 {
+  border-color: var(--pgn-color-primary-900) !important;
+}
+
+.bg-primary {
+  background-color: var(--pgn-color-primary-base) !important;
+}
+
+a.bg-primary:hover,
+a.bg-primary:focus,
+button.bg-primary:hover,
+button.bg-primary:focus {
+  background-color: var(--pgn-color-action-default-primary-base) !important;
+}
+
+.text-primary {
+  color: var(--pgn-color-primary-base) !important;
+}
+
+a.text-primary:hover,
+a.text-primary:focus {
+  color: var(--pgn-color-action-default-primary-base) !important;
+}
+
+.border-primary {
+  border-color: var(--pgn-color-primary-base) !important;
+}
+

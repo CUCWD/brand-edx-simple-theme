@@ -1,0 +1,16 @@
+/*
+This file contains additional SCSS styles that will be applied on top of the existing theme styles.
+You can customize colors, fonts, layouts, and other design elements here to further tailor the appearance
+of your Open edX platform.
+*/
+
+// Update the following tokens instead of defining custom CSS overrides like this.
+// This allows us to target specific elements without overriding too much (e.g. all h3 elements).
+// --pgn-typography-font-size-h3-base
+// --pgn-typography-headings-font-weight: var(--pgn-typography-font-weight-light);
+div#dashboard-content {
+  .course-card-title {
+    font-size: var(--pgn-typography-font-size-custom-course-card-title);
+    font-weight: var(--pgn-typography-font-weight-bold);
+  }
+}

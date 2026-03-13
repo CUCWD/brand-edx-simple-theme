@@ -461,6 +461,7 @@
   --pgn-other-form-control-custom-file-content: Browse;
   --pgn-theme-interval: 8%;
   --pgn-print-page-size: a3;
+  --pgn-typography-font-size-custom-course-card-title: 1.4rem;
   --pgn-size-alert-border-radius: var(--pgn-size-border-radius-base);
   --pgn-size-badge-focus-width: var(--pgn-size-input-btn-focus-width);
   --pgn-size-btn-border-radius-base: var(--pgn-size-border-radius-base);

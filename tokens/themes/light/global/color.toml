@@ -1,0 +1,36 @@
+# Seems like these were not defined when running the `generate-tokens` tutor command.
+# Actions should be defined by paragon, however, we're defining these explicitly here so we can
+# successfully compile the design tokens into CSS variables.
+# generate-tokens: https://gitlab.com/opencraft/dev/tutor-contrib-grove/-/blob/main/tutorgrove/plugins/simple_theme/plugin.py?ref_type=heads#L105-123
+# color tokens without actions: https://github.com/openedx/paragon/issues/3962
+# paragon release-23.x - theme/light/global/color.json: https://github.com/openedx/paragon/blob/release-23.x/tokens/src/themes/light/global/color.json
+
+[color.action.default.primary.base]
+"$value" = "{color.primary.base}"
+
+[color.action.default.primary.100]
+"$value" = "{color.primary.100}"
+
+[color.action.default.primary.200]
+"$value" = "{color.primary.200}"
+
+[color.action.default.primary.300]
+"$value" = "{color.primary.300}"
+
+[color.action.default.primary.400]
+"$value" = "{color.primary.400}"
+
+[color.action.default.primary.500]
+"$value" = "{color.primary.500}"
+
+[color.action.default.primary.600]
+"$value" = "{color.primary.600}"
+
+[color.action.default.primary.700]
+"$value" = "{color.primary.700}"
+
+[color.action.default.primary.800]
+"$value" = "{color.primary.800}"
+
+[color.action.default.primary.900]
+"$value" = "{color.primary.900}"

@@ -4,9 +4,12 @@
   "description": "This is a customisable branding package for Open edX MFEs that provides a number of overridable variables. ",
   "scripts": {
     "build-tokens": "paragon build-tokens --source ./tokens/ --build-dir ./paragon/css --all-themes --paragon-base-theme light",
+    "build-tokens-variant": "paragon build-tokens --source ./tokens/ --build-dir ./paragon/css --paragon-base-theme light",
     "build-scss": "paragon build-scss --corePath ./paragon/core.scss --themesPath ./paragon/css/themes",
     "build": "rimraf dist && mkdir dist && npm run build-scss",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "serve-theme": "npx paragon serve-theme-css --build-dir ./dist --host 0.0.0.0 --port 3000 --cors",
+    "watch-theme": "npx chokidar \"tokens/*/**/theme.toml\" -c \"node ./watch-theme.js {path}\""
   },
   "repository": {
     "type": "git",
@@ -23,6 +26,7 @@
   },
   "devDependencies": {
     "@openedx/paragon": "^23.16.0",
+    "chokidar-cli": "^3.0.0",
     "husky": "^9.1.7",
     "lint-staged": "^16.2.6",
     "prettier": "3.6.2",
